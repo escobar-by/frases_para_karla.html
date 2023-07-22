@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frases para Karla</title>
+</head>
+<body>
+    <h1>Frases para Karla</h1>
+    <ul>
+        <!-- Repita esta linha 100 vezes -->
+        <li>KARLA TE AMO S2</li>
+        <!-- Repita esta linha 100 vezes -->
+    </ul>
+</body>
+</html>
